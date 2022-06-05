@@ -6,7 +6,7 @@ API REST with Basic Authentication and Oracle NoSql.
 
 - CRUD
 - API Restful
-- Basic Auth
+- Basic Authentication
 
 ## Requirements
 
@@ -48,9 +48,10 @@ http://localhost:8080/swagger-ui.html
 ## Basic Authentication
 
 Username: admin
+
 Password: admin
 
-## Licença
+## License
 
 Project licensed under <a href="LICENSE">The MIT License (MIT)</a>.<br>
 
